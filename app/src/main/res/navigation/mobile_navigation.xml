@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_pcA">
+
+    <fragment
+        android:id="@+id/nav_pcA"
+        android:name="com.example.myapplicationdrawer.PcaFragment"
+        android:label="@string/pc_a"
+        tools:layout="@layout/fragment_pca" />
+
+    <fragment
+        android:id="@+id/nav_pcB"
+        android:name="com.example.myapplicationdrawer.PcbFragment"
+        android:label="@string/pc_b"
+        tools:layout="@layout/fragment_pcb" />
+
+    <fragment
+        android:id="@+id/nav_pcC"
+        android:name="com.example.myapplicationdrawer.PccFragment"
+        android:label="@string/pc_c"
+        tools:layout="@layout/fragment_pcc" />
+
+    <fragment
+        android:id="@+id/nav_pcD"
+        android:name="com.example.myapplicationdrawer.PcdFragment"
+        android:label="@string/pc_d"
+        tools:layout="@layout/fragment_pcd" />
+
+    <fragment
+        android:id="@+id/nav_pcE"
+        android:name="com.example.myapplicationdrawer.PceFragment"
+        android:label="@string/pc_e"
+        tools:layout="@layout/fragment_pce" />
+
+    <fragment
+        android:id="@+id/nav_pcF"
+        android:name="com.example.myapplicationdrawer.PcfFragment"
+        android:label="@string/pc_f"
+        tools:layout="@layout/fragment_pcf" />
+    <fragment
+        android:id="@+id/nav_pcG"
+        android:name="com.example.myapplicationdrawer.PcgFragment"
+        android:label="@string/pc_g"
+        tools:layout="@layout/fragment_pcg" />
+</navigation>

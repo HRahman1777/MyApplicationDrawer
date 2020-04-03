@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApplicationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">DIU_PC 49th Batch CSE</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="pc_a">PC-A</string>
+    <string name="pc_b">PC-B</string>
+    <string name="pc_c">PC-C</string>
+    <string name="pc_d">PC-D</string>
+    <string name="pc_e">PC-E</string>
+    <string name="pc_f">PC-F</string>
+    <string name="pc_g">PC-G</string>
+</resources>

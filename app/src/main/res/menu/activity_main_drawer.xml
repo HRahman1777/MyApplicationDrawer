@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Section">
+        <menu>
+
+            <item
+                android:id="@+id/nav_pcA"
+
+                android:title="@string/pc_a" />
+            <item
+                android:id="@+id/nav_pcB"
+
+                android:title="@string/pc_b" />
+            <item
+                android:id="@+id/nav_pcC"
+
+                android:title= "@string/pc_c" />
+            <item
+                android:id="@+id/nav_pcD"
+
+                android:title= "@string/pc_d" />
+
+            <item
+                android:id="@+id/nav_pcE"
+
+                android:title= "@string/pc_e" />
+            <item
+                android:id="@+id/nav_pcF"
+
+                android:title= "@string/pc_f" />
+
+            <item
+                android:id="@+id/nav_pcG"
+
+                android:title= "@string/pc_g" />
+
+        </menu>
+    </item>
+
+</menu>
